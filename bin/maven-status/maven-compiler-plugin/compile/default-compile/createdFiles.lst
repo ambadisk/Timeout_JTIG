@@ -1,0 +1,8 @@
+parser\early\JTIGParser$2.class
+grammar\treeinsertion\transform\lisp2xml\LispParser$1.class
+parser\output\derivedtree\DerivedTreeNode$1.class
+parser\output\forest\Forest$1.class
+parser\output\derivationtree\IndependentDerivationTree$1.class
+grammar\treeinsertion\intermediate\IRTreeNode$1.class
+parser\early\components\ItemSet$1.class
+parser\early\components\agenda\ItemComparator$1.class

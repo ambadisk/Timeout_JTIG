@@ -1,0 +1,19 @@
+2017-02-13 15:10:45,453 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-02-13 15:11:44,623 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.jtig:JTIG:0.0.3 @ D:\latest_jtig\JTIG-master(Phase1)\pom.xml.
+2017-02-13 15:11:47,584 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JTIG-master(Phase1)/src/main/java
+2017-02-13 15:11:47,585 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JTIG-master(Phase1)/src/test/java
+2017-02-13 15:11:47,586 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JTIG-master(Phase1)/src/test/resources
+2017-02-13 15:11:47,704 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 18 sec
+2017-02-13 15:11:49,721 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-13 15:11:49,723 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\latest_jtig\JTIG-master(Phase1)\src\main\resources
+2017-02-13 15:11:49,726 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-13 15:11:49,736 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2017-02-13 15:12:57,784 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.jtig:JTIG:0.0.3 @ D:\latest_jtig\JTIG-master(Phase1)\pom.xml.
+2017-02-13 15:12:58,106 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JTIG-master(Phase1)/src/main/java
+2017-02-13 15:12:58,107 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JTIG-master(Phase1)/src/test/java
+2017-02-13 15:12:58,107 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JTIG-master(Phase1)/src/test/resources
+2017-02-13 15:12:58,174 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2017-02-13 15:12:58,909 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-13 15:12:58,910 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\latest_jtig\JTIG-master(Phase1)\src\main\resources
+2017-02-13 15:12:58,914 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-13 15:12:58,916 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
