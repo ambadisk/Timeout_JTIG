@@ -64,7 +64,7 @@ public class Test_Read {
            parser = new JTIGParser("");
     	String url_lexicon = "D:\\latest_jtig\\english-conll-5000.xml";//lexicon path
     	JTIGParser.setProperty("grammar.lexicon.path", url_lexicon);
-   		String path = "D:\\latest_jtig\\test.txt";//text file path
+   		String path = "D:\\latest_jtig\\eng-conll-ROOT2.txt";//text file path
    		parser.readLexicon();
    		
    		FileReader fileread = new FileReader(path) ;

@@ -1,7 +1,0 @@
-INFO - Starting parse-preprocess.
-INFO - Sentence: ROOT Bell , based in Los Angeles , makes and distributes electronic , computer and building products .
-INFO - Tokens: [Token [pos=0, label=ROOT], Token [pos=5, label=Bell], Token [pos=10, label=,], Token [pos=12, label=based], Token [pos=18, label=in], Token [pos=21, label=Los], Token [pos=25, label=Angeles], Token [pos=33, label=,], Token [pos=35, label=makes], Token [pos=41, label=and], Token [pos=45, label=distributes], Token [pos=57, label=electronic], Token [pos=68, label=,], Token [pos=70, label=computer], Token [pos=79, label=and], Token [pos=83, label=building], Token [pos=92, label=products], Token [pos=101, label=.]]
-INFO - Found 2363 trees in lexicon which can possibly match in the sentence.
-INFO - Starting parse-process.
-INFO - Chart initialized. Chart width: 18
-INFO - Started main loop using following inference rules in ordering: [Scanning, PredictTraversation, CompleteTraversation, PredictSubstitution, CompleteSubstitution, PredictLeftAdjunction, CompleteLeftAdjunction, PredictRightAdjunction, CompleteRightAdjunction]
