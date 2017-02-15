@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: sampath
+Class-Path: lib/Morphadorner-2.1.jar lib/jgraphx-2.0.0.1.jar lib/log4j
+ -1.2.17.jar
+Build-Jdk: 1.8.0_111
+Created-By: Maven Integration for Eclipse
+Main-Class: parser.early.Test_Read
+
