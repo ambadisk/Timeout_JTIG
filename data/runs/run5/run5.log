@@ -1,0 +1,7 @@
+INFO - Starting parse-preprocess.
+INFO - Sentence: ROOT Howard Mosher , president and chief executive officer , said he anticipates growth for the luxury auto maker in Britain and Europe , and in Far Eastern markets .
+INFO - Tokens: [Token [pos=0, label=ROOT], Token [pos=5, label=Howard], Token [pos=12, label=Mosher], Token [pos=19, label=,], Token [pos=21, label=president], Token [pos=31, label=and], Token [pos=35, label=chief], Token [pos=41, label=executive], Token [pos=51, label=officer], Token [pos=59, label=,], Token [pos=61, label=said], Token [pos=66, label=he], Token [pos=69, label=anticipates], Token [pos=81, label=growth], Token [pos=88, label=for], Token [pos=92, label=the], Token [pos=96, label=luxury], Token [pos=103, label=auto], Token [pos=108, label=maker], Token [pos=114, label=in], Token [pos=117, label=Britain], Token [pos=125, label=and], Token [pos=129, label=Europe], Token [pos=136, label=,], Token [pos=138, label=and], Token [pos=142, label=in], Token [pos=145, label=Far], Token [pos=149, label=Eastern], Token [pos=157, label=markets], Token [pos=165, label=.]]
+INFO - Found 2809 trees in lexicon which can possibly match in the sentence.
+INFO - Starting parse-process.
+INFO - Chart initialized. Chart width: 30
+INFO - Started main loop using following inference rules in ordering: [Scanning, PredictTraversation, CompleteTraversation, PredictSubstitution, CompleteSubstitution, PredictLeftAdjunction, CompleteLeftAdjunction, PredictRightAdjunction, CompleteRightAdjunction]

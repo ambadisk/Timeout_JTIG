@@ -11,7 +11,7 @@ import java.io.PrintWriter;
 import java.io.Reader;
 import java.io.Writer;
 import java.net.URISyntaxException;
-import java.time.LocalTime;
+
 import java.util.ArrayList;
 
 import parser.early.run.ParseResult;
@@ -62,9 +62,9 @@ public class Test_Read {
        
        try {
            parser = new JTIGParser("");
-    	String url_lexicon = "D:\\latest_jtig\\english-conll-5000.xml";
+    	String url_lexicon = "D:\\latest_jtig\\english-conll-5000.xml";//lexicon path
     	JTIGParser.setProperty("grammar.lexicon.path", url_lexicon);
-   		String path = "D:\\latest_jtig\\test.txt";
+   		String path = "D:\\latest_jtig\\test.txt";//text file path
    		parser.readLexicon();
    		
    		FileReader fileread = new FileReader(path) ;
@@ -82,7 +82,7 @@ public class Test_Read {
 			long begin = System.currentTimeMillis();
 			sentencenumber = sentencenumber+1;
 			tr.testLexicon_234_pt2(line);
-			LocalTime end = LocalTime.now();
+			//LocalTime end = LocalTime.now();
 			
 			
 			bw.write("Time to write sentence "+ Integer.toString(sentencenumber) + " is " +  new Long(System.currentTimeMillis() -begin).toString()+" ms." + "\n");

@@ -1,0 +1,12 @@
+INFO - Starting parse-preprocess.
+INFO - Sentence: ROOT The luxury auto maker last year sold 1,214 cars in the U.S.
+INFO - Tokens: [Token [pos=0, label=ROOT], Token [pos=5, label=The], Token [pos=9, label=luxury], Token [pos=16, label=auto], Token [pos=21, label=maker], Token [pos=27, label=last], Token [pos=32, label=year], Token [pos=37, label=sold], Token [pos=42, label=1,214], Token [pos=48, label=cars], Token [pos=53, label=in], Token [pos=56, label=the], Token [pos=60, label=U.S.]]
+INFO - Found 162 trees in lexicon which can possibly match in the sentence.
+INFO - Starting parse-process.
+INFO - Chart initialized. Chart width: 13
+INFO - Started main loop using following inference rules in ordering: [Scanning, PredictTraversation, CompleteTraversation, PredictSubstitution, CompleteSubstitution, PredictLeftAdjunction, CompleteLeftAdjunction, PredictRightAdjunction, CompleteRightAdjunction]
+INFO - Finished main loop. 13744 items were created.
+INFO - Success.
+INFO - Extracting independent-derivation-trees.
+INFO - Extracting dependent-derivation-trees.
+INFO - Extracting derived/parse-trees.

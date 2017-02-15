@@ -1,0 +1,16 @@
+Time to write sentence 1 is 2253 ms.
+Time to write sentence 2 is 904 ms.
+Time to write sentence 3 is 608 ms.
+Time to write sentence 4 is 161 ms.
+Time to write sentence 5 is 2026 ms.
+Time to write sentence 6 is 388 ms.
+Time to write sentence 7 is 219 ms.
+Time to write sentence 8 is 122 ms.
+Time to write sentence 9 is 2029 ms.
+Time to write sentence 10 is 2736 ms.
+Time to write sentence 11 is 2168 ms.
+Time to write sentence 12 is 2055 ms.
+Time to write sentence 13 is 2138 ms.
+Time to write sentence 14 is 3186 ms.
+Time to write sentence 15 is 2170 ms.
+Time to write sentence 16 is 862 ms.

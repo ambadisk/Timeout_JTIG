@@ -1,0 +1,12 @@
+INFO - Starting parse-preprocess.
+INFO - Sentence: ROOT Ms. Haag plays Elianti .
+INFO - Tokens: [Token [pos=0, label=ROOT], Token [pos=5, label=Ms.], Token [pos=9, label=Haag], Token [pos=14, label=plays], Token [pos=20, label=Elianti], Token [pos=28, label=.]]
+INFO - Found 46 trees in lexicon which can possibly match in the sentence.
+INFO - Starting parse-process.
+INFO - Chart initialized. Chart width: 6
+INFO - Started main loop using following inference rules in ordering: [Scanning, PredictTraversation, CompleteTraversation, PredictSubstitution, CompleteSubstitution, PredictLeftAdjunction, CompleteLeftAdjunction, PredictRightAdjunction, CompleteRightAdjunction]
+INFO - Finished main loop. 167 items were created.
+INFO - Success.
+INFO - Extracting independent-derivation-trees.
+INFO - Extracting dependent-derivation-trees.
+INFO - Extracting derived/parse-trees.

@@ -1,0 +1,12 @@
+INFO - Starting parse-preprocess.
+INFO - Sentence: ROOT Investors are appealing to the Securities and Exchange Commission not to limit their access to information about stock purchases and sales by corporate insiders .
+INFO - Tokens: [Token [pos=0, label=ROOT], Token [pos=5, label=Investors], Token [pos=15, label=are], Token [pos=19, label=appealing], Token [pos=29, label=to], Token [pos=32, label=the], Token [pos=36, label=Securities], Token [pos=47, label=and], Token [pos=51, label=Exchange], Token [pos=60, label=Commission], Token [pos=71, label=not], Token [pos=75, label=to], Token [pos=78, label=limit], Token [pos=84, label=their], Token [pos=90, label=access], Token [pos=97, label=to], Token [pos=100, label=information], Token [pos=112, label=about], Token [pos=118, label=stock], Token [pos=124, label=purchases], Token [pos=134, label=and], Token [pos=138, label=sales], Token [pos=144, label=by], Token [pos=147, label=corporate], Token [pos=157, label=insiders], Token [pos=166, label=.]]
+INFO - Found 785 trees in lexicon which can possibly match in the sentence.
+INFO - Starting parse-process.
+INFO - Chart initialized. Chart width: 26
+INFO - Started main loop using following inference rules in ordering: [Scanning, PredictTraversation, CompleteTraversation, PredictSubstitution, CompleteSubstitution, PredictLeftAdjunction, CompleteLeftAdjunction, PredictRightAdjunction, CompleteRightAdjunction]
+INFO - Finished main loop. 306226 items were created.
+INFO - Success.
+INFO - Extracting independent-derivation-trees.
+INFO - Extracting dependent-derivation-trees.
+INFO - Extracting derived/parse-trees.

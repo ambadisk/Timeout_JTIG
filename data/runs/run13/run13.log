@@ -1,0 +1,12 @@
+INFO - Starting parse-preprocess.
+INFO - Sentence: ROOT The proposed changes also would allow executives to report exercises of options later and less often .
+INFO - Tokens: [Token [pos=0, label=ROOT], Token [pos=5, label=The], Token [pos=9, label=proposed], Token [pos=18, label=changes], Token [pos=26, label=also], Token [pos=31, label=would], Token [pos=37, label=allow], Token [pos=43, label=executives], Token [pos=54, label=to], Token [pos=57, label=report], Token [pos=64, label=exercises], Token [pos=74, label=of], Token [pos=77, label=options], Token [pos=85, label=later], Token [pos=91, label=and], Token [pos=95, label=less], Token [pos=100, label=often], Token [pos=106, label=.]]
+INFO - Found 425 trees in lexicon which can possibly match in the sentence.
+INFO - Starting parse-process.
+INFO - Chart initialized. Chart width: 18
+INFO - Started main loop using following inference rules in ordering: [Scanning, PredictTraversation, CompleteTraversation, PredictSubstitution, CompleteSubstitution, PredictLeftAdjunction, CompleteLeftAdjunction, PredictRightAdjunction, CompleteRightAdjunction]
+INFO - Finished main loop. 80573 items were created.
+INFO - Success.
+INFO - Extracting independent-derivation-trees.
+INFO - Extracting dependent-derivation-trees.
+INFO - Extracting derived/parse-trees.
