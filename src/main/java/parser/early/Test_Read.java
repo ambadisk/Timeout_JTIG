@@ -79,15 +79,18 @@ public class Test_Read {
 		int sentencenumber = 0;
 		String line = br.readLine();
 		while(line != null){
-			long begin = System.currentTimeMillis();
+			long lineTime1 = System.currentTimeMillis();
+			
 			sentencenumber = sentencenumber+1;
 			tr.testLexicon_234_pt2(line);
-			//LocalTime end = LocalTime.now();
 			
+			long lineTime2 = System.currentTimeMillis();
 			
-			bw.write("Time to write sentence "+ Integer.toString(sentencenumber) + " is " +  new Long(System.currentTimeMillis() -begin).toString()+" ms." + "\n");
+			bw.write("Time to write sentence "+ Integer.toString(sentencenumber) + " is " +  new Long(lineTime2-lineTime1).toString()+" ms." + "\n");
 			line = br.readLine();
 		}
+		long time2 = System.currentTimeMillis();
+		System.out.println("Complete time: " + new Long(time2-time1).toString()+" ms." + "\n");
 		bw.close();
 		fw.close();
 		br.close();
